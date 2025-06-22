@@ -1,6 +1,6 @@
 {
   "name": "vue-supabase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Deploys a fleet tracking web panel",
   "repository": "https://github.com/tofuhubhq/vue-supabase.git",
   "homepage": "https://tofuhub.co",
