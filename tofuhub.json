@@ -2,7 +2,7 @@
   "name": "vue-supabase",
   "version": "0.0.1",
   "description": "Deploys a fleet tracking web panel",
-  "repository": "https://github.com/tofuhubhq/fleet-tracker.git",
+  "repository": "https://github.com/tofuhubhq/vue-supabase.git",
   "homepage": "https://tofuhub.co",
   "author": "Tommaso Girotto",
   "tags": ["lorawan", "iot", "postgres", "valkey"],
